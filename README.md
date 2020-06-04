@@ -1,4 +1,4 @@
-# vsapp
+# Covid19 tracker app UI design
 
 A new Flutter project.
 
